@@ -18,7 +18,7 @@
     "export_for_4chan": true,
     "use_original_name_batch": false,
     "save_selected_only": true,
-    "do_not_add_watermark": false,
+    "do_not_add_watermark": true,
     "temp_dir": "",
     "clean_temp_dir_at_start": false,
     "outdir_samples": "",
